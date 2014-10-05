@@ -19,7 +19,7 @@ Installation
 Package    | Description                                   | Purpose
 ---------- | --------------------------------------------- | ---------------------
 xbacklight | RandR-based backlight control application     | Backend functionality
-gtk3       | GObject-based multi-platform GUI toolkit (v3) | Graphics toolkit
+gtk2       | GObject-based multi-platform GUI toolkit (v2) | Graphics toolkit
 
 ### Installation Steps
 
