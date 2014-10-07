@@ -14,7 +14,11 @@ amount of features needed in order to make it a complete product; nothing more.
 Installation
 ------------
 
-### Dependencies
+### Build Dependencies
+
+- libgtk2.0-dev
+
+### Runtime Dependencies
 
 Package    | Description                                   | Purpose
 ---------- | --------------------------------------------- | ---------------------
